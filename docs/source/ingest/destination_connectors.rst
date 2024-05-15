@@ -19,6 +19,7 @@ in our community `Slack. <https://short.unstructured.io/pzw05l7>`_
    destination_connectors/dropbox
    destination_connectors/elasticsearch
    destination_connectors/gcs
+   destination_connectors/kdbai
    destination_connectors/mongodb
    destination_connectors/pinecone
    destination_connectors/opensearch
